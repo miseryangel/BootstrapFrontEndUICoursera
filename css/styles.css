@@ -52,3 +52,18 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .closeButton {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+#smoking {
+  max-width: 80px; }
+
+#non-smoking {
+  max-width: 160px; }
